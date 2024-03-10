@@ -8,8 +8,8 @@ const Header = () => {
         PARS Plumbing 
       </Link>
     </h2>
-    <p>IMAN: <Link href="tel:206-899-7743">206-899-7743</Link></p>
-    <p>AMIN: <Link href="tel:425-469-5033">425-469-5033</Link></p>
+    <p><Link href="tel:206-899-7743">206-899-7743</Link></p>
+    <p><Link href="mailto:parsplumbing@gmail.com">parsplumbing@gmail.com</Link></p>
     </section>
   );
 };
