@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
-        <div className="py-20 flex flex-col lg:flex-row items-center">
+        <div className="sm:py-5 py-5 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             PARS Plumbing
           </h3>
@@ -25,7 +25,7 @@ export function Footer() {
             
           </div>
         </div>
-        <p className="mt-8 mb-8">© 2024 PARS Plumbing. All rights reserved.</p>
+        <p className="mt-2 mb-2">© 2024 PARS Plumbing. All rights reserved.</p>
       </Container>
     </footer>
   );
