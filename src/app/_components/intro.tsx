@@ -14,8 +14,8 @@ export function Intro() {
       
     </section>
     <section className="mt-5 tracking-tighter leading-tight">
-      <p className="lg:text-2xl sm:text-sm	 md:text-sm	">IMAN: <Link href="tel:206-899-7743">206-899-7743</Link></p>
-      <p className="lg:text-2xl sm:text-sm	 md:text-sm	">AMIN: <Link href="tel:425-469-5033">425-469-5033</Link></p>
+      <p className="lg:text-2xl sm:text-sm	 md:text-sm	">Call: <Link href="tel:206-899-7743">206-899-7743</Link></p>
+      <p className="lg:text-2xl sm:text-sm	 md:text-sm	">Email: <Link href="email:parsplumbing@gmail.com">parsplumbing@gmail.com</Link></p>
     </section>
     </section>
   );
